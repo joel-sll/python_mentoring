@@ -1,4 +1,4 @@
-# Python for Data Science — M2 Course Notebooks
+# Python for Data Science Notebooks
 
 Three 3-hour sessions introducing Python for data analysis, built for an M2 business school
 cohort with mixed prior coding experience. Each session ships as a paired **exercises** notebook
@@ -9,11 +9,9 @@ cohort with mixed prior coding experience. Each session ships as a paired **exer
 ```
 session1-python-fundamentals/
   session1_exercises.ipynb
-  session1_solutions.ipynb
 
 session2-numpy-pandas-seaborn/
   session2_exercises.ipynb
-  session2_solutions.ipynb
   olist_orders.csv
   olist_order_items.csv
   olist_products.csv
@@ -22,7 +20,6 @@ session2-numpy-pandas-seaborn/
 
 session3-scipy-statistics/
   session3_exercises.ipynb
-  session3_solutions.ipynb
   diabetes.csv
   olist_orders.csv
   olist_order_items.csv
@@ -30,10 +27,6 @@ session3-scipy-statistics/
   product_category_translation.csv
   brl_eur_rates.csv
 ```
-
-Each notebook expects its data files to sit in the **same folder** as the notebook itself
-(plain `pd.read_csv("filename.csv")`, no subfolders) — that's why the Olist + exchange-rate files
-are duplicated between Session 2 and Session 3 rather than shared from one place.
 
 ## Session overview
 
