@@ -1,0 +1,13 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Exercise-generated output (Session 3 mini-project export)
+eda_report_output/
+final_report/
+
+# OS
+.DS_Store
