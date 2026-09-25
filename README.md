@@ -1,8 +1,7 @@
 # Python for Data Science Notebooks
 
-Three 3-hour sessions introducing Python for data analysis, built for an M2 business school
-cohort with mixed prior coding experience. Each session ships as a paired **exercises** notebook
-(with `TODO`s and self-checking `assert` cells) and a **solutions** notebook.
+Three 3-hour sessions introducing Python for data analysis. Each session ships as a paired **exercises** notebook
+(with `TODO`s and self-checking `assert` cells).
 
 ## Structure
 
